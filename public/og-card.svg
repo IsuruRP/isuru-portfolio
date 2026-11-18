@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0c0e"/>
+  <path d="M0 126h1200M0 252h1200M0 378h1200M0 504h1200M200 0v630M400 0v630M600 0v630M800 0v630M1000 0v630" stroke="#202225"/>
+  <circle cx="1030" cy="120" r="7" fill="#f5b942"/>
+  <text x="95" y="250" fill="#f5f2ea" font-family="Arial, sans-serif" font-size="92" font-weight="700">Isuru Randika</text>
+  <text x="100" y="335" fill="#9a9b9d" font-family="Arial, sans-serif" font-size="34">SOFTWARE ENGINEERING PORTFOLIO</text>
+  <path d="M100 395h250" stroke="#f5b942" stroke-width="6"/>
+</svg>
