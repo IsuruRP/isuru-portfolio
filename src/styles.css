@@ -187,6 +187,7 @@ button { font: inherit; }
 .service-timeline small { display: block; color: #55585b; font: 500 .48rem var(--display); letter-spacing: .1em; margin-bottom: .25rem; }
 .supporting-grid { display: grid; grid-template-columns: repeat(2, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); margin-top: 90px; }
 .small-project { min-height: 360px; padding: 2rem; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); transition: background .25s ease; }
+.small-project:only-child { grid-column: 1 / -1; }
 .small-project:hover { background: rgba(255,255,255,.02); }
 .small-project-top { display: flex; justify-content: space-between; color: #6e7072; font: 500 .65rem var(--display); }
 .icon-link { color: var(--project-color); }.icon-link svg { width: 22px; transition: transform .2s; }.icon-link:hover svg { transform: translate(3px,-3px); }

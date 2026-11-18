@@ -66,19 +66,6 @@ export const projects: Project[] = [
     github: 'https://github.com/IsuruRP/Travel-and-Tourism-Management-System',
     tone: 'green',
   },
-  {
-    number: '04',
-    name: 'Playwright CI Lab',
-    category: 'Quality engineering experiment',
-    summary:
-      'A focused browser-testing repository exploring repeatable Playwright checks inside a continuous integration workflow.',
-    contribution:
-      'Configured the Playwright test runner, authored browser tests, and connected the suite to a GitHub Actions workflow.',
-    technologies: ['Playwright', 'JavaScript', 'GitHub Actions', 'CI'],
-    evidence: ['Browser automation', 'CI workflow', 'Repeatable checks'],
-    github: 'https://github.com/IsuruRP/playwright-ci-demo',
-    tone: 'red',
-  },
 ]
 
 export const skillGroups = [
